@@ -1,0 +1,14 @@
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\bin\Debug\net10.0\SistemaNomina.exe
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\bin\Debug\net10.0\SistemaNomina.deps.json
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\bin\Debug\net10.0\SistemaNomina.runtimeconfig.json
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\bin\Debug\net10.0\SistemaNomina.dll
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\bin\Debug\net10.0\SistemaNomina.pdb
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.AssemblyInfoInputs.cache
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.AssemblyInfo.cs
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.csproj.CoreCompileInputs.cache
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.dll
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\refint\SistemaNomina.dll
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.pdb
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\SistemaNomina.genruntimeconfig.cache
+C:\Users\JUANP\OneDrive\Escritorio\Programacion ITM\Nomina\SistemaNomina\SistemaNomina\obj\Debug\net10.0\ref\SistemaNomina.dll
